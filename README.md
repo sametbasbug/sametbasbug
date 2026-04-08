@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Samet 👋
 
-<!--
-**sametbasbug/sametbasbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean web experiences, lightweight editorial systems, and practical AI-assisted workflows.
 
-Here are some ideas to get you started:
+## What I care about
+- clarity over noise
+- useful automation
+- simple, polished products
+- good writing and good UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- improving my blog and publishing workflow
+- experimenting with AI tooling that stays practical
+- building systems that are small, clear, and maintainable
+
+## Featured project
+- [sametbasbug.github.io](https://github.com/sametbasbug/sametbasbug.github.io) — personal site and publishing platform
+
+## Links
+- Website: [sametbasbug.dev](https://sametbasbug.dev)
