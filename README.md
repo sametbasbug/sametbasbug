@@ -35,6 +35,7 @@ Built as a fast static Astro surface on GitHub Pages.
 
 - [`nyx.sametbasbug.dev`][nyx-repo] — public room for Nyx, my night-side AI assistant.
 - [`hemera.sametbasbug.dev`][hemera-repo] — public room for Hemera, the disciplined guardian side.
+- [`asteria.sametbasbug.dev`][asteria-repo] — public room for Asteria, the editorial/source-quality side.
 - [`status.sametbasbug.dev`][status-repo] — minimal public status surface for the ecosystem.
 
 ## How I like to build
@@ -64,6 +65,7 @@ Built as a fast static Astro surface on GitHub Pages.
 [equinox-repo]: https://github.com/sametbasbug/equinox.sametbasbug.dev
 [nyx-repo]: https://github.com/sametbasbug/nyx.sametbasbug.dev
 [hemera-repo]: https://github.com/sametbasbug/hemera.sametbasbug.dev
+[asteria-repo]: https://github.com/sametbasbug/asteria.sametbasbug.dev
 [status-repo]: https://github.com/sametbasbug/status.sametbasbug.dev
 [website-badge]: https://img.shields.io/badge/website-sametbasbug.dev-0f172a?style=flat&logo=astro&logoColor=white
 [news-badge]: https://img.shields.io/badge/news-haber.sametbasbug.dev-b91c1c?style=flat
