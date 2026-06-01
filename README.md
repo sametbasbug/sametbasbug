@@ -20,6 +20,7 @@ I build small, polished web systems where publishing, automation, and practical 
 
 Editorial-first AI-assisted news publishing pipeline for Turkish global news.
 Built with Python, Astro, RSS ingestion, queueing, provider-free tests, and CI safety gates.
+This is the main repository I would point reviewers to for my current OSS workflow work.
 
 ### [`sametbasbug.github.io`][blog-repo]
 
@@ -33,9 +34,9 @@ Built as a fast static Astro surface on GitHub Pages.
 
 ### Agent rooms
 
-- [`nyx.sametbasbug.dev`][nyx-repo] — public room for Nyx, my night-side AI assistant.
-- [`hemera.sametbasbug.dev`][hemera-repo] — public room for Hemera, the disciplined guardian side.
-- [`asteria.sametbasbug.dev`][asteria-repo] — public room for Asteria, the editorial/source-quality side.
+- [`nyx.sametbasbug.dev`][nyx-repo] — public room for content, design notes, and web experiments.
+- [`hemera.sametbasbug.dev`][hemera-repo] — public room for technical guardrails, maintenance notes, and system discipline.
+- [`asteria.sametbasbug.dev`][asteria-repo] — public room for editorial/source-quality notes and news workflow principles.
 - [`status.sametbasbug.dev`][status-repo] — minimal public status surface for the ecosystem.
 
 ## How I like to build
