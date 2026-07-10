@@ -5,6 +5,7 @@ I build small, polished web systems where publishing, automation, and practical 
 [![Website][website-badge]][website]
 [![News][news-badge]][news]
 [![Equinox][equinox-badge]][equinox]
+[![Orbit][orbit-badge]][orbit]
 [![X][x-badge]][x]
 
 ## Current focus
@@ -12,6 +13,7 @@ I build small, polished web systems where publishing, automation, and practical 
 - Building **clean publishing surfaces** with Astro, Markdown, and GitHub Pages.
 - Designing **editorial-first automation**: useful pipelines, visible guardrails, no blind autopublish.
 - Exploring **practical AI workflows** that stay inspectable, maintainable, and human-directed.
+- Growing **Equinox** as a connected set of public products rather than isolated demos.
 - Keeping projects small enough to understand, but polished enough to ship.
 
 ## Selected public work
@@ -27,17 +29,19 @@ This is the main repository I would point reviewers to for my current OSS workfl
 Personal site and publishing platform behind [`sametbasbug.dev`][website].
 Built with Astro, Markdown content collections, Firebase, and GitHub Actions.
 
+### [`orbit.sametbasbug.dev`][orbit-repo]
+
+Shared public timeline for the Equinox AI agents.
+Profiles, permanent posts, project links, and editorial boundaries live in one file-based Astro product.
+
 ### [`equinox.sametbasbug.dev`][equinox-repo]
 
-Lightweight gateway for my sites, agent rooms, and public experiments.
+Lightweight gateway for the Equinox ecosystem, public products, and experiments.
 Built as a fast static Astro surface on GitHub Pages.
 
-### Agent rooms
+### [`status.sametbasbug.dev`][status-repo]
 
-- [`nyx.sametbasbug.dev`][nyx-repo] — public room for content, design notes, and web experiments.
-- [`hemera.sametbasbug.dev`][hemera-repo] — public room for technical guardrails, maintenance notes, and system discipline.
-- [`asteria.sametbasbug.dev`][asteria-repo] — public room for editorial/source-quality notes and news workflow principles.
-- [`status.sametbasbug.dev`][status-repo] — minimal public status surface for the ecosystem.
+Minimal public status surface for the Equinox ecosystem.
 
 ## How I like to build
 
@@ -55,20 +59,21 @@ Built as a fast static Astro surface on GitHub Pages.
 - Website: [`sametbasbug.dev`][website]
 - News surface: [`haber.sametbasbug.dev`][news]
 - Equinox gateway: [`equinox.sametbasbug.dev`][equinox]
+- Equinox Orbit: [`orbit.sametbasbug.dev`][orbit]
 - X / Twitter: [`@SametBasbugX`][x]
 
 [website]: https://sametbasbug.dev
 [news]: https://haber.sametbasbug.dev
 [equinox]: https://equinox.sametbasbug.dev
+[orbit]: https://orbit.sametbasbug.dev
 [x]: https://x.com/SametBasbugX
 [haber-repo]: https://github.com/sametbasbug/haber.sametbasbug.dev
 [blog-repo]: https://github.com/sametbasbug/sametbasbug.github.io
 [equinox-repo]: https://github.com/sametbasbug/equinox.sametbasbug.dev
-[nyx-repo]: https://github.com/sametbasbug/nyx.sametbasbug.dev
-[hemera-repo]: https://github.com/sametbasbug/hemera.sametbasbug.dev
-[asteria-repo]: https://github.com/sametbasbug/asteria.sametbasbug.dev
+[orbit-repo]: https://github.com/sametbasbug/orbit.sametbasbug.dev
 [status-repo]: https://github.com/sametbasbug/status.sametbasbug.dev
 [website-badge]: https://img.shields.io/badge/website-sametbasbug.dev-0f172a?style=flat&logo=astro&logoColor=white
 [news-badge]: https://img.shields.io/badge/news-haber.sametbasbug.dev-b91c1c?style=flat
 [equinox-badge]: https://img.shields.io/badge/equinox-public%20gateway-4338ca?style=flat
+[orbit-badge]: https://img.shields.io/badge/orbit-agent%20timeline-263c8f?style=flat
 [x-badge]: https://img.shields.io/badge/X-@SametBasbugX-111111?style=flat&logo=x&logoColor=white
